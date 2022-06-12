@@ -5,7 +5,7 @@
 <hr style="background-color:silver;height:3px;" />
 
 ## Project Summary
-<hr style="border-top 10px silver; margin-top: 1px; margin-bottom: 1px" />
+<hr style="background-color:silver;height:3px;" />
 
 ### Project Deliverables
 > - A final report notebook
