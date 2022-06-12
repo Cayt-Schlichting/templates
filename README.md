@@ -1,5 +1,7 @@
 This repo contains templates that are useful for future projects.
-<img src="Organize-serious-meme.jpg" />
+
+<img src="img/Organize-serious-meme.jpeg?raw=true" width=400 />
+
 Templates to create:
 - **notebook-formatting-options:** markdown, python and html tools I like to use for presenting from jupyter notebooks
 - **report:**  Layout a preferred final report format.  Put in markdown formatting for summary areas and section breaks.
