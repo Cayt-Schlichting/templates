@@ -1,12 +1,10 @@
-# Predicting Tax Value of Homes using Zillow Data
+# Project Title
 *Audience: Target audience for my final report is*
 
 
 <hr style="background-color:silver;height:3px;" />
 
 ## Project Summary
-
-<hr style="background-color:silver;height:3px;" />
 
 ### Project Deliverables
 > - A final report notebook
@@ -53,11 +51,13 @@
 **Discoveries and Recommendations**
 
 
-<hr style="background-color:silver;height:3px;" />
 
+
+<div class=\"alert alert-info\"> 
 ## Data Dictionary
+</div>
 
-<hr style="background-color:silver;height:3px;" />
+
 
 |Target|Definition|
 |:-------|:----------|
