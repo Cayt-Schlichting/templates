@@ -5,6 +5,7 @@
 <hr style="background-color:silver;height:3px;" />
 
 ## Project Summary
+<hr style="background-color:silver;height:3px;" />
 
 ### Project Deliverables
 > - A final report notebook
@@ -14,14 +15,12 @@
 >  - exploratory analysis not included in final report
 >  - model creation, refinement and evaluation
 
----
 ### Initial questions on the data
 
 >  - Questions
 >  - Thoughts
 >  - etc
 
----
 ### Project Plan 
 
 - [ ] **Acquire** data from the Codeup SQL Database. 
@@ -43,21 +42,20 @@
    - [ ] Executive Summary
 ---
 
----
-## Executive Summary
+<hr style="background-color:silver;height:3px;" />
 
-**Goal:**
+## Executive Summary
+<hr style="background-color:silver;height:3px;" />
+
+**Project Goal:**
 
 **Discoveries and Recommendations**
 
 
+<hr style="background-color:silver;height:3px;" />
 
-
-<div class=\"alert alert-info\"> 
 ## Data Dictionary
-</div>
-
-
+<hr style="background-color:silver;height:3px;" />
 
 |Target|Definition|
 |:-------|:----------|
@@ -74,7 +72,6 @@
 <hr style="background-color:silver;height:3px;" />
 
 ## Reproducing this project
-
 <hr style="background-color:silver;height:3px;" />
 
 > In order to reproduce this project you will need your own environment file and access to the database. You can reproduce this project with the following steps:
