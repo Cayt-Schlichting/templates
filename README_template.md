@@ -21,25 +21,6 @@
 >  - Thoughts
 >  - etc
 
-### Project Plan 
-
-- [ ] **Acquire** data from the Codeup SQL Database. 
-- [ ] Clean and **prepare** data for the explore phase. 
-- [ ] Create wrangle.py to store functions I created to automate the cleaning and preparation process. 
-- [ ] Separate train, validate, test subsets and scaled data.
-- [ ] **Explore** the data through visualization and hypothesis testing.
-    - [ ] Clearly define at hypotheses and questions.
-    - [ ] Document findings and takeaways.
-- [ ] Perform **modeling**:
-   - [ ] Identify model evaluation criteria
-   - [ ] Create at least three different models.
-   - [ ] Evaluate models on appropriate data subsets.
-- [ ] Create **Final Report** notebook with a curtailed version of the above steps.
-- [ ] Create and review README. Ensure it contaions:
-   - [ ] Data dictionary
-   - [ ] Project summary and goals
-   - [ ] Initial Hypothesis
-   - [ ] Executive Summary
 ---
 
 <hr style="background-color:silver;height:3px;" />
@@ -82,3 +63,25 @@
 >  - contains variables: username, password, host
 > - Run the Final_Report notebook or explore the other notebooks for greater insight into the project.
 
+### Project Plan 
+
+<details>
+  <summary><i>Click to expand</i></summary>
+  <ul>
+   <li><b>Acquire</b> data from XXXX</li>
+    <li>Clean and <b>prepare</b>data for the exploration. </li>
+    <li>Create wrangle.py to store functions I created to automate the cleaning and preparation process.</li>
+    <li>Separate train, validate, test subsets and scaled data.</li>
+    <li><b>Explore</b> the data through visualizations; Document findings and takeaways.</li>
+    <li>Perform <b>modeling</b>:
+    <ul>
+        <li>Identify model evaluation criteria</li>
+        <li>Create at least three different models.</li>
+        <li>Evaluate models on appropriate data subsets.</li>
+    </ul>
+    </li>
+    <li>Create <b>Final Report</b> notebook with a curtailed version of the above steps.</li>
+    <li>Create and review README. </li>
+    
+  </ul>
+</details
